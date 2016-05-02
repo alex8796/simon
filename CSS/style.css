@@ -1,0 +1,286 @@
+/* WRAPPER*/
+#wrapper{
+	width: 1050px;
+	height: 1100px;
+	position: relative;
+	margin: auto;
+	background: white
+}
+
+/* MENU */
+
+#menu{
+	width: 1050px;
+	margin: auto;
+
+}
+
+
+/* MENU STYLE */
+
+li{
+	float: left;
+    position: relative;
+}
+
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #D7A9FF;
+}
+
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 19px 108.7px;
+    text-decoration: none;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+/* ----------HOME---------- */
+
+#pic{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 30px;
+	border-radius: 100%;
+}
+#bio{
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 390px;
+}
+
+#p1{
+	font-family: pt serif;
+	padding: 10px
+}
+
+#pico{
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+	position: absolute;
+} 
+
+#nycr{
+	height: 345px;
+	width: 420px;
+ 	margin-top: 60px;
+ 	margin-left: -370px;
+ 	position: absolute;
+}
+
+#web5{
+	width: 820px;
+	height: 350px;
+	margin-left: 405px;
+	position: absolute;
+	top:250px;
+	
+
+}
+
+/* V SOVIAL */
+
+#social{
+	width: 39px;
+	height: 67px;
+	position: absolute;
+	margin-top: 25px;
+	margin-left: -55px;
+    position: fixed;
+    background: white;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/* FACEBOOK */
+
+#face{
+	width: 33px;
+	height: 33px;
+	margin: auto;
+
+}
+
+#faceo{
+	width:100%;
+	height: 100%;
+	border-radius: 100%;
+	margin: auto;
+}
+
+#face {
+    opacity: 0.5;
+    filter: alpha(opacity=40); 
+}
+
+#face:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+
+/* IMAGE AUTOFIT */
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+/* GITHUB */
+
+#git{
+    width: 33px;
+	height: 33px;
+	margin: auto;
+}
+
+#gito{
+	width:100%;
+	height: 100%;
+	border-radius: 100%;
+
+}
+
+#git {
+    opacity: 0.5;
+    filter: alpha(opacity=40); 
+}
+
+#git:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+
+/* SNAPCHAT */
+
+#snap{
+	width: 33px;
+	height: 33px;
+	margin: auto;
+
+}
+
+#snapo{
+	width:100%;
+	height: 100%;
+	border-radius: 100%;
+
+}
+
+#snap {
+    opacity: 0.5;
+    filter: alpha(opacity=40); 
+}
+
+#snap:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+
+/* TWITTER */
+
+#twit{
+	width: 33px;
+	height: 33px;
+	margin: auto;
+}
+
+#twito{
+	width:100%;
+	height: 100%;
+	border-radius: 100%;
+
+}
+
+#twit {
+    opacity: 0.5;
+    filter: alpha(opacity=40); 
+}
+
+#twit:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+
+/* PINTEREST */
+
+#pin{
+	width: 33px;
+	height: 33px;
+	margin: auto;
+
+}
+
+#pino{
+	width:100%;
+	height: 100%;
+	border-radius: 100%;
+
+
+}
+#pin {
+    opacity: 0.5;
+    filter: alpha(opacity=40); 
+}
+
+#pin:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+
+
+
+/* ----------ABOUT---------- */
+
+#mapsanje {
+	
+	width: 300px;
+	height: 300px;
+	top: 10px;
+	left: 10px;
+	position: absolute;	
+}
+
+#p1a {
+	width: 490px;
+	height: 300px;
+	background: --- red;
+	margin-left: 500px;
+	margin-top: 10px;
+	position: absolute;
+	font-size: 20px;
+}
+
+
+
+
+
+#drink{
+	position: absolute;
+	margin: auto;
+	left: 100px;
+	background: red;
+	color: blue;
+
+	margin-top: 300px;
+}
